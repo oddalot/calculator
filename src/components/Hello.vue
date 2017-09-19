@@ -9,8 +9,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="682.92114"
+   viewBox="0 0 512 682.92114"
    id="svg37105"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
@@ -2368,6 +2367,12 @@ ellipse, #text6242, #text6250, #text6266 {
 
 .lit-up {
   color: #000;
+}
+
+.hello {
+  max-width: 600px;
+  margin: 0 auto;
+  height: 100%;
 }
 
 </style>
