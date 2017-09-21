@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="calculator">
     <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -2214,7 +2214,7 @@
 
 <script>
 export default {
-  name: 'hello',
+  name: 'calculator',
   data() {
     return {
       stringNum: '',
@@ -2369,7 +2369,7 @@ ellipse, #text6242, #text6250, #text6266 {
   color: #000;
 }
 
-.hello {
+.calculator {
   max-width: 600px;
   margin: 0 auto;
   height: 100%;
