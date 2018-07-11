@@ -2294,7 +2294,7 @@ export default {
             break;
         }
       }
-      return tempVal;
+      return tempVal.toPrecision(7);
     },
     clearScreen() {
       this.eightLit = ['', '', '', '', '', '', ''];
